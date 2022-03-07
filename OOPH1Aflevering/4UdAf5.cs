@@ -1,0 +1,2 @@
+﻿//Brug Abstrakt  = er når vi kalder en contructor i en
+//anden klasse og ovre i anden klasse skal vi have en public override og den constructor som vi skal bruge, bruger vi så Abstract til at køre vores program..
